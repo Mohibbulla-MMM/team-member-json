@@ -1,0 +1,85 @@
+[
+  {
+    "img": "https://i.ibb.co/pfsfDXL/a.jpg",
+    "name": "Burdhan",
+    "dasignation": "Coordinator",
+    "id": 1
+  },
+
+  {
+    "img": "https://i.ibb.co/nkBCL8B/b.jpg",
+    "name": "Mike",
+    "dasignation": "Venue Manager",
+    "id": 2
+  },
+
+  {
+    "img": "https://i.ibb.co/xYSJXXT/c.jpg",
+    "name": "Jessica",
+    "dasignation": "Catering Manager",
+    "id": 3
+  },
+
+  {
+    "img": "https://i.ibb.co/fkqjDTh/j.jpg",
+    "name": "Michelle",
+    "dasignation": "Decorator",
+    "id": 4
+  },
+
+  {
+    "img": "https://i.ibb.co/q7zJdXd/i.jpg",
+    "name": "Lora",
+    "dasignation": "Photographer",
+    "id": 5
+  },
+
+  {
+    "img": "https://i.ibb.co/Vv2Nyd3/h.jpg",
+    "name": "Cristiano",
+    "dasignation": "Entertainment Coordinator",
+    "id": 6
+  },
+
+  {
+    "img": "https://i.ibb.co/C1BC7b1/g.jpg",
+    "name": "Maria",
+    "dasignation": "Fashion Consultant",
+    "id": 7
+  },
+
+  {
+    "img": "https://i.ibb.co/1Tm79f9/e.jpg",
+    "name": "Joshua",
+    "dasignation": "Transportation Coordinator",
+    "id": 8
+  },
+
+  {
+    "img": "https://i.ibb.co/rwsjSW0/f.jpg",
+    "name": "Jessie",
+    "dasignation": "Budget Manager",
+    "id": 9
+  },
+
+  {
+    "img": "https://i.ibb.co/fkqjDTh/j.jpg",
+    "name": "Eve",
+    "dasignation": "Security Team Lead",
+    "id": 10
+  },
+
+  {
+    "img": "https://i.ibb.co/ck4ym2Y/d.jpg",
+    "name": "Sung",
+    "dasignation": "Emergency Response Coordinator",
+    "id": 11
+  },
+
+  {
+    "img": "https://i.ibb.co/xYSJXXT/c.jpg",
+    "name": "Rosa",
+    "dasignation": "Cleanup and Post-Event Manager",
+    "id": 12
+  }
+]

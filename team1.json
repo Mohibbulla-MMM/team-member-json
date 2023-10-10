@@ -1,0 +1,43 @@
+[
+  {
+    "img": "https://i.ibb.co/whdyqTV/mahabub.png",
+    "name": "Jhankar Mahbub",
+    "designation": "Senior Web Instructor"
+  },
+
+  {
+    "img": "https://i.ibb.co/W3YGQwM/1685703407535-MD-GIAS-UDDIN.png",
+    "name": "Gias Uddin",
+    "designation": "Senior Web Instructor"
+  },
+  {
+    "img": "https://i.ibb.co/PQ5LSGT/Rokib.png",
+    "name": "Rakibul Islam",
+    "designation": "Senior Web Instructor"
+  },
+  {
+    "img": "https://i.ibb.co/4TWbm6j/Elias.png",
+    "name": "Farhan Elias",
+    "designation": "ICT Trainer"
+  },
+  {
+    "img": "https://i.ibb.co/t3zJGrD/1685703612079-Mahabub-Hossen-Saki.png",
+    "name": "Saki",
+    "designation": "UI/Xi Designer"
+  },
+  {
+    "img": "https://i.ibb.co/cDqthDS/311157526-589456529637239-5236811046150183925-n-removebg-preview.png",
+    "name": "Hasib",
+    "designation": "Senior AI Instructor"
+  },
+  {
+    "img": "https://i.ibb.co/LgLrXwp/Mohammad-Shabaj-Khan.png",
+    "name": "Mohammad Shabaj",
+    "designation": "Senior Graphics Instractor"
+  },
+  {
+    "img": "https://i.ibb.co/Jmprs7j/Screenshot-1-removebg-preview.png",
+    "name": "Mohibbulla",
+    "designation": "Jonior Programmer"
+  }
+]
